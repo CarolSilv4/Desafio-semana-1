@@ -1,14 +1,3 @@
-input [type = text/css] {
-        color: darkslateblue;
-}
-
-body{
-        background-color: midnightblue;
-}
-h1{
-        color: royalblue;
-        text-align: center;
-}
-p{ font-family: verdana;
-        font-size: 20px;
+#caixa {
+    background-color: aqua;
 }
